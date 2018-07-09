@@ -1,3 +1,3 @@
 # skill
 Project initiated.
-More info soomn.
+More info soon.
